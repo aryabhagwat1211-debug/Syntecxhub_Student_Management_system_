@@ -1,0 +1,17 @@
+[
+    {
+        "student_id": "xyz1234",
+        "name": "Pikachu",
+        "grade": "A"
+    },
+    {
+        "student_id": "Nobita",
+        "name": "abc123",
+        "grade": "C"
+    },
+    {
+        "student_id": "jkl123",
+        "name": "Dora",
+        "grade": "B"
+    }
+]
